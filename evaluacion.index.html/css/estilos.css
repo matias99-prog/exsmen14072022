@@ -1,0 +1,14 @@
+body{
+    width: 90%;
+    margin: 0 auto  ;
+
+    border: 10px;
+}
+.cabecera{
+    background-image: url(/img/bocanada.jpg);
+    background-position: 150px;
+    background-color: rgb(217, 103, 97);
+    color: rgb(0, 0, 0);
+    background-position: 100px;
+    text-align: center;
+}
